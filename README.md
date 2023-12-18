@@ -28,4 +28,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hymlife&" alt="hymlife" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hymlife" alt="hymlife" /></a> </p>
 
-https://github.com/hymlife/hymlife/blob/output/github-contribution-grid-snake.gif
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
