@@ -73,10 +73,6 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
-
-###
-
 <div align="left">
   <a href="linkedin.com/in/halil-ibrahim-dursun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -94,7 +90,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="162" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/hymlife/hymlife/output/snake.svg" alt="Snake animation" />
 
