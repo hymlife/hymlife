@@ -122,14 +122,14 @@
 ###
 
 <div align="center">
-    <div>
+    <div align="right">
         <img
-      align="right"
+      
       height="150"
       src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
     />
     
-    </div>
+    
     
     
     <div align="left">
@@ -162,10 +162,6 @@
 </div>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hymlife&show_icons=true&locale=en&layout=compact" alt="hymlife" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hymlife&show_icons=true&locale=en" alt="hymlife" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hymlife&" alt="hymlife" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hymlife" alt="hymlife" /></a> </p>
