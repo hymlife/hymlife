@@ -96,6 +96,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hymlife/hymlife/output/snake.svg" alt="Snake animation" />
 
 ###
