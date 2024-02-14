@@ -159,12 +159,13 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hymlife&show_icons=true&locale=en&layout=compact" alt="hymlife" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hymlife&show_icons=true&locale=en" alt="hymlife" /></p>
+<div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hymlife&" alt="hymlife" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hymlife" alt="hymlife" /></a> </p>
+  
+</div>
+
 
 <br clear="both" />
 
