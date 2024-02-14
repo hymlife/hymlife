@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h1 align="left">About Me</h1>
 
 ###
 
@@ -14,15 +14,7 @@
 
 ###
 
-<h2 align="left">What I Do</h2>
-
-###
-
-<p align="left">🌐 I specialize in creating robust and scalable web applications that deliver exceptional user experiences.<br><br><br>📱 Additionally, I have a keen interest in mobile app development, crafting apps that seamlessly blend functionality and aesthetics.<br><br><br>💡 I love solving complex problems and am always on the lookout for new challenges that push my boundaries and expand my skill set.</p>
-
-###
-
-<h2 align="left">Technologies I'm Proficient In</h2>
+<h1 align="left">Technologies I'm Proficient In</h1>
 
 ###
 
@@ -62,6 +54,14 @@
 
 ###
 
+<h1 align="left">What I Do</h1>
+
+###
+
+<p align="left">🌐 I specialize in creating robust and scalable web applications that deliver exceptional user experiences.<br><br><br>📱 Additionally, I have a keen interest in mobile app development, crafting apps that seamlessly blend functionality and aesthetics.<br><br><br>💡 I love solving complex problems and am always on the lookout for new challenges that push my boundaries and expand my skill set.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hymlife&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hymlife&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -96,5 +96,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/hymlife/hymlife/output/snake.svg" alt="Snake animation" />
 
 ###
